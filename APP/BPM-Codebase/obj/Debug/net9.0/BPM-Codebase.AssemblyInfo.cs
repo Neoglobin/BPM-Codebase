@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BPM-Codebase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2eadd65101c33c8e1c91f71802df8d464d81572")]
 [assembly: System.Reflection.AssemblyProductAttribute("BPM-Codebase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BPM-Codebase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
