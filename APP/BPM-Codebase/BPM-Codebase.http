@@ -1,0 +1,6 @@
+@BPM_Codebase_HostAddress = http://localhost:5089
+
+GET {{BPM_Codebase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
