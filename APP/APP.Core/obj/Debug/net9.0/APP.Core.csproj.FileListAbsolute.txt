@@ -1,0 +1,12 @@
+C:\Code\BPM-Codebase\APP\APP.Core\bin\Debug\net9.0\APP.Core.deps.json
+C:\Code\BPM-Codebase\APP\APP.Core\bin\Debug\net9.0\APP.Core.dll
+C:\Code\BPM-Codebase\APP\APP.Core\bin\Debug\net9.0\APP.Core.pdb
+C:\Code\BPM-Codebase\APP\APP.Core\obj\Debug\net9.0\APP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\BPM-Codebase\APP\APP.Core\obj\Debug\net9.0\APP.Core.AssemblyInfoInputs.cache
+C:\Code\BPM-Codebase\APP\APP.Core\obj\Debug\net9.0\APP.Core.AssemblyInfo.cs
+C:\Code\BPM-Codebase\APP\APP.Core\obj\Debug\net9.0\APP.Core.csproj.CoreCompileInputs.cache
+C:\Code\BPM-Codebase\APP\APP.Core\obj\Debug\net9.0\APP.Core.sourcelink.json
+C:\Code\BPM-Codebase\APP\APP.Core\obj\Debug\net9.0\APP.Core.dll
+C:\Code\BPM-Codebase\APP\APP.Core\obj\Debug\net9.0\refint\APP.Core.dll
+C:\Code\BPM-Codebase\APP\APP.Core\obj\Debug\net9.0\APP.Core.pdb
+C:\Code\BPM-Codebase\APP\APP.Core\obj\Debug\net9.0\ref\APP.Core.dll

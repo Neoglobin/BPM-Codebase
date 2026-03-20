@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Code\\BPM-Codebase\\APP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AFC61A6-6553-4313-8969-E9E4B81F76A1}|APP.DbLayer\\APP.DbLayer.csproj|c:\\code\\bpm-codebase\\app\\app.dblayer\\migrations\\20260320112759_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC61A6-6553-4313-8969-E9E4B81F76A1}|APP.DbLayer\\APP.DbLayer.csproj|solutionrelative:app.dblayer\\migrations\\20260320112759_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC61A6-6553-4313-8969-E9E4B81F76A1}|APP.DbLayer\\APP.DbLayer.csproj|c:\\code\\bpm-codebase\\app\\app.dblayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC61A6-6553-4313-8969-E9E4B81F76A1}|APP.DbLayer\\APP.DbLayer.csproj|solutionrelative:app.dblayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{794527EC-99F0-4A2A-8B42-65037EA7483F}|API\\API.csproj|c:\\code\\bpm-codebase\\app\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{794527EC-99F0-4A2A-8B42-65037EA7483F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|c:\\code\\bpm-codebase\\app\\app.core\\entities\\classentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|solutionrelative:app.core\\entities\\classentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|c:\\code\\bpm-codebase\\app\\app.core\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|solutionrelative:app.core\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|c:\\code\\bpm-codebase\\app\\app.core\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|solutionrelative:app.core\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|c:\\code\\bpm-codebase\\app\\app.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|solutionrelative:app.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|c:\\code\\bpm-codebase\\app\\app.core\\entities\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D080C049-CF54-4B20-9D50-8C30E1803334}|APP.Core\\APP.Core.csproj|solutionrelative:app.core\\entities\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC61A6-6553-4313-8969-E9E4B81F76A1}|APP.DbLayer\\APP.DbLayer.csproj|c:\\code\\bpm-codebase\\app\\app.dblayer\\configurations\\classentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC61A6-6553-4313-8969-E9E4B81F76A1}|APP.DbLayer\\APP.DbLayer.csproj|solutionrelative:app.dblayer\\configurations\\classentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +46,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T08:40:43.896Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassEntity.cs",
+              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\ClassEntity.cs",
+              "RelativeDocumentMoniker": "APP.Core\\Entities\\ClassEntity.cs",
+              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\ClassEntity.cs",
+              "RelativeToolTip": "APP.Core\\Entities\\ClassEntity.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwC0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:49:05.137Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Method.cs",
+              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\Method.cs",
+              "RelativeDocumentMoniker": "APP.Core\\Entities\\Method.cs",
+              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\Method.cs",
+              "RelativeToolTip": "APP.Core\\Entities\\Method.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:10:44.326Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "APP.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\User.cs",
+              "RelativeToolTip": "APP.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:40:36.681Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "APP.Core\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\UserRole.cs",
+              "RelativeToolTip": "APP.Core\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:45:52.914Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\RolePermission.cs",
+              "RelativeDocumentMoniker": "APP.Core\\Entities\\RolePermission.cs",
+              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\APP.Core\\Entities\\RolePermission.cs",
+              "RelativeToolTip": "APP.Core\\Entities\\RolePermission.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:47:54.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\APP.DbLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APP.DbLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\APP.DbLayer\\AppDbContext.cs",
+              "RelativeToolTip": "APP.DbLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:10:17.099Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260320112759_Initial.cs",
+              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\APP.DbLayer\\Migrations\\20260320112759_Initial.cs",
+              "RelativeDocumentMoniker": "APP.DbLayer\\Migrations\\20260320112759_Initial.cs",
+              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\APP.DbLayer\\Migrations\\20260320112759_Initial.cs",
+              "RelativeToolTip": "APP.DbLayer\\Migrations\\20260320112759_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:28:12.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\APP.DbLayer\\Configurations\\ClassEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "APP.DbLayer\\Configurations\\ClassEntityConfiguration.cs",
+              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\APP.DbLayer\\Configurations\\ClassEntityConfiguration.cs",
+              "RelativeToolTip": "APP.DbLayer\\Configurations\\ClassEntityConfiguration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:20:35.301Z",
               "EditorCaption": ""
             }
           ]
