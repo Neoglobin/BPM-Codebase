@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Code\\BPM-Codebase\\APP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DE5558A-DE3B-48E6-B987-670DEEA77662}|BPM-Codebase\\BPM-Codebase.csproj|c:\\code\\bpm-codebase\\app\\bpm-codebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DE5558A-DE3B-48E6-B987-670DEEA77662}|BPM-Codebase\\BPM-Codebase.csproj|solutionrelative:bpm-codebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{794527EC-99F0-4A2A-8B42-65037EA7483F}|API\\API.csproj|c:\\code\\bpm-codebase\\app\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794527EC-99F0-4A2A-8B42-65037EA7483F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\BPM-Codebase\\Program.cs",
-              "RelativeDocumentMoniker": "BPM-Codebase\\Program.cs",
-              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\BPM-Codebase\\Program.cs",
-              "RelativeToolTip": "BPM-Codebase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Code\\BPM-Codebase\\APP\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Code\\BPM-Codebase\\APP\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T08:25:48.293Z",
+              "WhenOpened": "2026-03-20T08:40:43.896Z",
               "IsPinned": true,
               "EditorCaption": ""
             }
